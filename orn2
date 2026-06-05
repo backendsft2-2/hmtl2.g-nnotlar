@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div>
+        dfdsgfdgfdgfdfdsfdsfdsfdfdsfdsfdsfdsfdsf
+        dfdsfdsfdsfdsgfdsgfdgfdgdfgdfgdfgdfgfdg
+        dsgfdgdggfhgfhgfhgfhgfhgfhfghgfhfghfh
+
+
+    </div>
+
+</body>
+</html>
+
+
+style kısmı baska sayfada
+div {
+
+width:600px;
+height:300px;
+background-color:goldenrod;
+color:darkslategray;
+margin-top:20px;
+margin-left:50px;
+padding-top:10px;
+padding-left:10px;
+margin:10px 20px;
+
+
+margin:10px 20px 30px 10px
+//üst sağ alt sol
+
+
+}
