@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+<div style="width:100%;position:absolute;height:50px;background-color:red">
+
+
+</div>
+    <div style="height:20px;width:80px;background-color:blue;float:left"></div>
+
+    <br /><br /><br />
+    <hr />
+    position :absolute css de bir ögeyi sayfaynın normal akışından tamamen çıkarıp belirli bir referansa konumlandırılmasını sağlar .
+    <div></div>
+
+</body>
+</html>
