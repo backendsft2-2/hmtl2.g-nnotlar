@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Türkiye Spor Federasyonu</title>
+</head>
+<body>
+    <div class="genel">
+
+        <div class="header">
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" /></a>
+            </div><!--logo kapanış-->
+            <div class="menu">
+                <ul>
+                    <li><a href="index.html">AnaSayfa</a></li>
+                    <li><a href="hakkimizda.html">Hakkımızda</a></li>
+                    <li><a href="hizmetlerimiz.html">Hizmetlerimiz</a></li>
+
+                </ul>
+            </div><!--menu kapanış-->
+            <div class="icon">
+                <a href="https://www.instagram.com/?hl=tr" target="_blank"><img src="img/fcebk.png" /></a>
+                <a href="" target="_blank"><img src="img/fcebk.png" /></a>
+
+            </div><!--icon kapanış-->
+
+
+        </div><!--header divvn kapanısı-->
+
+        <div class="slider" >
+            <div class="sresim">
+                <img src="img/slider.jfif" />
+            </div><!--sresim kapanıs-->
+
+
+        </div><!--slider kapanıs-->
+
+    <br /><br /><br /><br />
+
+
+        <div class="giris">
+            <h2><marquee>TÜRKİYE  HERYERDE ŞAMPİYON </marquee></h2>
+        </div>
+
+        <div class="section">
+
+            <div class="sec1">
+            <h4>Duyurular</h4>
+
+            <ul>
+                <li>Duyuru1</li>
+                <li>Duyuru2</li>
+            </ul>
+            </div><!--section1 kapanış-->
+            <div class="sec2">
+                <h2>Şampiyonluk Serüveni</h2>
+                <p>Spor; fiziksel ve mental sağlığımızı koruyan, yaşam enerjimizi artıran ve disiplini hayatımızın merkezine alan evrensel bir aktivitedir. Günlük hayatta hareket etmek, sadece estetik bir görünüm sağlamakla kalmaz; aynı zamanda stresle başa çıkma becerimizi geliştirir, uyku düzenimizi iyileştirir ve bağışıklık sistemimizi güçlendiri</p>
+
+
+            </div><!--section2 kapanış-->
+
+            <div class="sec3">
+            <h3>    Kategoriler</h3>
+            <ul>
+                <li>Kategori1</li>
+                <li>Kategori2</li>
+            </ul>
+            </div><!--section3 kapanış-->
+
+        </div><!--section kapanış-->
+
+        <div class="footer">
+            <br />
+            <h3>@Tüm Hakları bckend2  aittir</h3>
+            <h3>2125556655</h3>
+            <h3>Bize Ulaşın :spor@gmail.com</h3>
+        </div>
+
+
+
+
+
+
+
+
+
+    </div> <!--genel divin kapanışı-->
+
+
+
+
+</body>
+</html>
+
+//index 
+//hakkimizda  tanıtıcı bir yazı 
+//hizmetlerimiz div lerin içinde resim olucak altına button 
+//iletişim 
+//video ekleyin harita eklemey calısın
