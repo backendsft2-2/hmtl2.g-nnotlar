@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        p strong{
+            color:red;
+            font-weight:normal;
+            border-style:groove;
+        }
+
+        .ozellikler {
+            font-weight: bold;
+            border-style:double;
+        }
+        ul{
+            list-style:none;
+
+        }
+       ol {
+            list-style: none;
+        }
+       .yazilim{
+           list-style-type:circle;
+           border-style:dotted;
+       }
+       .liste{
+           border-style:solid;
+       }
+        .list {
+            border-style:dashed;       
+
+
+
+        }
+    </style>
+</head>
+<body>
+    <p><strong>Yazılım kursu</strong></p>
+    <hr />
+    <p class="ozellikler">veritabanı kursu</p>
+    <hr />
+    <ul>
+        <li>istanbyl</li>
+        <li>ankara</li>
+        <li>izmir</li>
+    </ul>
+
+    <hr />
+    <ol>
+        <li>elma</li>
+        <li>karpuz</li>
+        <li>kirax</li>
+    </ol>
+    <hr />
+
+    <ol class="liste">
+        <li>liste1</li>
+        <li>liste3</li>
+    </ol>
+
+    <hr />
+
+    <ol class="yazilim">
+        <li>yazılım1</li>
+        <li>yazılım1</li>
+        <li>yazılım1</li>
+    </ol>
+
+    <hr />
+
+    <ol class="list">
+        <li>çikolata</li>
+        <li>süt</li>
+        <li>kahve</li>
+    </ol>
+    <hr />
+    <ol class="ornek">
+        <li>çikolata</li>
+        <li>süt</li>
+        <li>kahve</li>
+    </ol>
+    <hr />
+
+    <ol class="ornek2">
+        <li>çikolata</li>
+        <li>süt</li>
+        <li>kahve</li>
+    </ol>
+    <hr />
+</body>
+</html>
